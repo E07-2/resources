@@ -9,10 +9,6 @@ Here you will find links and information send in the Slack channel
 ## VScode links
 * [download VScode](https://code.visualstudio.com/download)
 * [Emmet documentation](https://docs.emmet.io/)
-* []()
-* []()
-* []()
-* []()
 
 
 ## UI Basics
@@ -68,17 +64,3 @@ Here you will find links and information send in the Slack channel
 * [More about grid](https://learncssgrid.com/)
 * [MDN grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 * [Grid Reference](https://grid.malven.co/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
