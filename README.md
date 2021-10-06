@@ -64,3 +64,12 @@ Here you will find links and information send in the Slack channel
 * [More about grid](https://learncssgrid.com/)
 * [MDN grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 * [Grid Reference](https://grid.malven.co/)
+* [Media query: devices width](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+* [Mobile First: Design](https://www.invisionapp.com/inside-design/mobile-first-design/)
+* [Media query tips](https://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/)
+* [Bootstrap Getting Started](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+* [Animations](https://www.w3schools.com/css/css3_animations.asp)
+* [Animation timing function](https://www.w3schools.com/css/tryit.asp?filename=trycss3_animation_speed)
+* [Animation/transition cubic beizer](https://css-tricks.com/advanced-css-animation-using-cubic-bezier/)
+* [Transition tricks](https://www.impressivewebs.com/css3-transitions-without-hover/)
+
